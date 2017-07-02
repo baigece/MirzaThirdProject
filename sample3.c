@@ -3,5 +3,6 @@ int main()
 {
 printf("hello world");
 printf("message from GIT");
-rturn 0;
+printf("Message from FARHATECE");
+return 0;
 }
