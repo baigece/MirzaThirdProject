@@ -3,5 +3,5 @@ int main()
 {
 printf("hello world");
 printf("message from GIT");
-return 0;
+rturn 0;
 }
